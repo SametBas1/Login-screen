@@ -25,7 +25,7 @@ A full responsive login/register screen built with HTML 🌐, CSS🎨, and JavaS
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your_username/project_name.git
+   git clone https://github.com/SametBas1/Login-screen.git
 
 
 
